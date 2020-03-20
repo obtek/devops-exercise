@@ -10,13 +10,13 @@ Instead, we ask you to do at most a few hours of work, on your time, to complete
 
 ## Next Steps
 
-1. Take a few minutes to read up on our [Technology Stack](TECHNOLOGY) to familiarize yourself with the tools we use here at BrightHive.
+1. Take a few minutes to read up on our [Technology Stack](TECHNOLOGY.md) to familiarize yourself with the tools we use here at BrightHive.
 
-2. Review the [Logistics](LOGISTICS) section of the document the learn about the parameters of the DevOps activity.
+2. Review the [Logistics](LOGISTICS.md) section of the document the learn about the parameters of the DevOps activity.
 
-3. Implement your solution to the exercise as described in the [Task Outline](EXERCISE) section.
+3. Implement your solution to the exercise as described in the [Task Outline](EXERCISE.md) section.
 
-4. Submit your solution as described in the [Logistics](LOGISTICS) section.
+4. Submit your solution as described in the [Logistics](LOGISTICS.md) section.
 
 ## Contact
 
