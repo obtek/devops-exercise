@@ -2,21 +2,21 @@
 
 ## 1. Timeframe
 
-If you are reading this document, then congratulations on making it to the technical portion of the interview! You'll be given  this assignment a week in advance of your interview with the engineering team members. We want to be respectful of your time and fair to other candidates who may not have an extended amount of time to work on it. Please limit yourself to a maximum of two hours.
+If you are reading this document, then congratulations on making it to the technical portion of the interview! You'll be given  this assignment a few days ahead of your interview with the engineering team members. We want to be respectful of your time and fair to other candidates who may not have an extended amount of time to work on it. Please limit yourself to a maximum of **two hours**.
 
-### 2. Acquire Test Scripts and Sample Data
+### 2. Acquire Exercise Code
 
-You will need to clone this repository in order to get access to some test scripts and sample data needed for this exercise.
+You will need to clone the source code repository for the project that you will need to deploy for this assignment.
 
 1. Create a Github account if you don't have one already. Please note that in the example below you will replace the username `user` with your own username.
 2. Clone our repository to your local machine:
 
 ```bash
 # Using SSH
-$ git clone git@github.com:brighthive/path-to-git-repo.git
+$ git@github.com:gregmundy/trust-in-superheroes.git
 
 # Using HTTPS
-$ git clone https://user@github.com/brighthive/path-to-git-repo.git
+$ git clone https://github.com/gregmundy/trust-in-superheroes.git
 ```
 
 ### 3. Implement Solution
@@ -41,7 +41,7 @@ $ git remote add myrepo https://user@github.com/user/brighthive-solution.git
 $ git push myrepo master
 ```
 
-Give access to the following users `gregmundy`, `robinsonkwame`, `vykster`, `tplagge`.
+Give access to the following users: `gregmundy`, `tplagge`.
 
 ### 5. Contact Us
 
